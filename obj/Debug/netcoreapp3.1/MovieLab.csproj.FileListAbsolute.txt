@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.AssemblyInfo.cs
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.exe
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.deps.json
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.runtimeconfig.json
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.runtimeconfig.dev.json
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.dll
+C:\Users\logan\source\repos\MovieLab\bin\Debug\netcoreapp3.1\MovieLab.pdb
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.dll
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.pdb
+C:\Users\logan\source\repos\MovieLab\obj\Debug\netcoreapp3.1\MovieLab.genruntimeconfig.cache
